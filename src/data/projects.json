@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Picato",
+    "imageSrc": "projects/picato.png",
+    "description": "Discover the vibrant world of flavors with PICATO, your ultimate culinary companion. Built with the power and flexibility of Next.js,PICATO offers a seamless and dynamic user experience.",
+    "skills": ["Next", "Tailwind"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Pranjalcool9897/Picato-Food-site"
+  },
+  {
+    "title": "Hand Recognition",
+    "imageSrc": "projects/Hand.png",
+    "description": "A hand Recoginition system which controls volume made by using Opencv,Python.",
+    "skills": ["Python", "Computer-Vision", "opencv"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Pranjalcool9897/MACHINE__LEARNING"
+  },
+  {
+    "title": "Student Management System",
+    "imageSrc": "projects/SMS.png",
+    "description": "A student Management system made by using Python and SQL helps in doing CRUD operations",
+    "skills": ["Python", "SQL","tkinter"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Pranjalcool9897/Studentmanagementsystem"
+  }
+]

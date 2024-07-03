@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Arduino",
+    "organisation": "Engineers day",
+    "startDate": "Sept, 2022",
+    "endDate": "sept,2022",
+    "experiences": ["Created a Humidity Checker", "Won 2nd Prize"],
+    "imageSrc": "history/arduino.png"
+  },
+  {
+    "role": "200+ Question",
+    "organisation": "GFG",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2024",
+    "experiences": ["solved 200 plus question on Geeks for geeks"],
+    "imageSrc": "history/GFG.png"
+  },
+  {
+    "role": "Artificial Neural Network",
+    "organisation": "Tensorflow",
+    "startDate": "Apr, 2023",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Trained many models using sikit learn and Tensorflow",
+      "Achieved more than 90% accuracy"
+    ],
+    "imageSrc": "history/tensorflow.png"
+  }
+]
