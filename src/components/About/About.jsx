@@ -39,10 +39,9 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Mern Stack Developer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              I am a skilled Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, and Node.js). 
               </p>
             </div>
           </li>
